@@ -22,7 +22,6 @@ async function writeDataGenre() {
             }).save()
         })
     }
-    console.log(length);
 }
 
 module.exports = writeDataGenre
